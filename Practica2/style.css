@@ -1,0 +1,62 @@
+#mybody{
+background-color: aquamarine;
+}
+#myh1{
+    color: crimson;
+    text-align: center;
+    font-size: 60px;
+}
+#myh2{
+    color: blueviolet;
+    text-align: end;
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#myh3{
+    color:darkgoldenrod;
+    text-align:left;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#myh4{
+    color:antiquewhite;
+    text-align: center;
+    font-size: 30px;
+}
+#myh5{
+    color:chocolate;
+    text-align: end;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#myh6{
+    color:blue;
+    text-align:left;
+    font-size: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#mydiv{
+    background-color: aliceblue;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.biografia{
+    background-color: aliceblue;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.dato {
+    margin: 10px 0;
+    font-size: 18px;
+}
+.etiqueta {
+    font-weight: bold;
+    color: #555;
+}
+.valor {
+    color: #222;
+}
